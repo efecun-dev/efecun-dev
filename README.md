@@ -59,8 +59,8 @@ I continuously work on improving backend architecture, UI/UX quality and buildin
 
 ## 📫 Contact Me
 
-- **Email:** efe@efecun.dev (veya tercihin)  
-- **LinkedIn:** https://linkedin.com/in/efecun  
+- **Email:** mecgithub@gmail.com 
+- **LinkedIn:** Soon...  
 - **Location:** Samsun, Türkiye  
 
 Thanks for visiting my profile! 🚀  
