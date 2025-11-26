@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Efe Cün  
+# 👋 Hi, I'm Mahmut Efe Cün  
 ### Full-Stack Developer • Node.js • Express • SQL • EJS
 
 I'm a full-stack web developer with 6+ years of experience building scalable, modern and clean web applications. I specialize in **Node.js, Express, SQL and EJS**, and I love designing efficient backend architectures as well as intuitive user interfaces.
