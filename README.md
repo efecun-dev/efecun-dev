@@ -22,9 +22,9 @@ I continuously work on improving backend architecture, UI/UX quality and buildin
 
 ### **Frontend**
 - HTML, CSS, JavaScript  
-- EJS  
+- React
 - Tailwind CSS  
-- GSAP  
+- Next.js
 
 ### **DevOps & Tools**
 - Git & GitHub  
@@ -37,12 +37,8 @@ I continuously work on improving backend architecture, UI/UX quality and buildin
 ---
 
 ## 🛠 Projects I'm Working On
-- **Stock & Inventory Management System** – scalable, modern SaaS-style platform  
-- **Admin Dashboard Template (EJS + Tailwind)**  
-- **Authentication Boilerplate (Node.js + SQL, sessions, roles)**  
-- **API Starter Kit with clean structure**  
-- **File Upload & Storage Service**  
-
+- **Stock & Inventory Management System**
+- **ERP/CRM Application**
 ---
 
 ## 📈 GitHub Stats
